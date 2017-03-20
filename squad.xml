@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+	<squad nick="Schutzstaffel">
+	<name></name>
+	<email></email>
+	<web></web>
+	<picture>Chuckle 1.paa</picture>
+	<title></title>
+	
+	<member id="76561198085506039" nick="[SS] Himmler">
+		<name>[SS] Himmler</name>
+		<email></email>
+		<icq>Top Gasser</icq>
+		<remark></remark>
+	</member>
+        <member id="76561198019067573" nick="alex(wolf)">
+		<name>alex(wolf)</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+        <member id="76561198052812835" nick="Pillock">
+		<name>Pillock</name>
+		<email></email>
+		<icq>O</icq>
+		<remark></remark>
+	</member>
+        <member id="76561198054709915" nick="Spammking">
+		<name>Spammking</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	<member id="76561198119397662" nick="Paddy.D">
+		<name>Paddy.D</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	<member id="76561198042121747" nick="Flames">
+		<name>Flames</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+	<member id="76561198079647253" nick="Barry Chuckle">
+		<name>Barry Chuckle</name>
+		<email></email>
+		<icq></icq>
+		<remark></remark>
+	</member>
+        </squad>
